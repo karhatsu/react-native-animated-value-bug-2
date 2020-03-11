@@ -15,3 +15,7 @@ react-native run-android
 ```
 
 More instructions inside the app.
+
+## Issue
+
+[https://github.com/facebook/react-native/issues/27202](https://github.com/facebook/react-native/issues/27202)
